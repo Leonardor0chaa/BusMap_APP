@@ -50,7 +50,7 @@
         android:layout_width="140dp"
         android:layout_height="37dp"
         android:layout_marginTop="50dp"
-        android:layout_marginEnd="170dp"
+        android:layout_marginEnd="190dp"
         android:text="1º parada:"
         android:textColor="#FBF6F6"
         android:textSize="30sp"
@@ -66,7 +66,7 @@
         android:text="Praça das Bandeiras,"
         android:textColor="#F8F4F4"
         android:textSize="20sp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="55dp"
         android:layout_marginStart="160dp"
         app:layout_constraintEnd_toEndOf="@+id/containerComponents3"
         app:layout_constraintStart_toStartOf="@+id/containerComponents3"
@@ -93,7 +93,7 @@
         android:textSize="30sp"
         android:textStyle="bold"
         android:layout_marginTop="60dp"
-        android:layout_marginEnd="170dp"
+        android:layout_marginEnd="190dp"
         app:layout_constraintEnd_toEndOf="@+id/containerComponents3"
         app:layout_constraintStart_toStartOf="@+id/containerComponents3"
         app:layout_constraintTop_toBottomOf="@+id/textView10" />
@@ -106,7 +106,7 @@
         android:textColor="#F6F6F6"
         android:textSize="20sp"
         android:layout_marginStart="165dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="42dp"
         app:layout_constraintEnd_toEndOf="@+id/containerComponents3"
         app:layout_constraintStart_toStartOf="@+id/containerComponents3"
         app:layout_constraintTop_toBottomOf="@+id/textView12" />
@@ -118,6 +118,7 @@
         android:text="1036, CEP: 06513-200"
         android:textColor="#FFFCFC"
         android:textSize="20sp"
+        android:layout_marginStart="165dp"
         app:layout_constraintEnd_toEndOf="@+id/containerComponents3"
         app:layout_constraintStart_toStartOf="@+id/containerComponents3"
         app:layout_constraintTop_toBottomOf="@+id/textView14" />

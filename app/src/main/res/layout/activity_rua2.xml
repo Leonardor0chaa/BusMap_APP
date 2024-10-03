@@ -74,7 +74,7 @@
         android:id="@+id/textView7"
         android:layout_width="300dp"
         android:layout_height="80dp"
-        android:text="Avenida Henrique Gonçalves Baptista"
+        android:text="Estrada Velha de Itapevi"
         android:textColor="#F8F5F5"
         android:textSize="30sp"
         android:textStyle="normal|bold"
