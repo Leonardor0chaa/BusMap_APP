@@ -119,7 +119,7 @@ public class cadastro extends AppCompatActivity {
 
         // Validação do usuário
         if (!userValido) {
-            editUser.setError("Usuário não pode conter caracteres especiais.");
+            editUser.setError("Usuário não pode conter caracteres especiais e espaço entre as letras.");
         }
 
         // Validação do email
